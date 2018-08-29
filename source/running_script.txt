@@ -1,0 +1,1 @@
+pyomo solve --solver=glpk --save-results ../results/scheduling_multiproduct_karimi.yml --summary scheduling_multiproduct.py ../data/scheduling_karimi.dat
