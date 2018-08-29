@@ -1,0 +1,8 @@
+param N := 3;
+param M := 4;
+
+param processing_time :
+        1      2      3     4   :=
+    1   20     15     8     11
+    2   25     14     18    9
+    3   6      17     4     30 ;
